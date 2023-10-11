@@ -1,0 +1,1 @@
+Esse código Java demonstra a utilização do loop for para interagir com o usuário, coletar números e calcular estatísticas. Ao contrário da versão anterior com o loop while, o for é utilizado com uma condição de repetição específica (0 a 10 iterações). Ele mantém o controle de variáveis como maior, menor, soma e contador, atualizando-as conforme novos números são inseridos.
